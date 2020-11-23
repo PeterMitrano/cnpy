@@ -7,6 +7,7 @@
   <license>MIT</license>
 
   <author>Carl Rogers</author>
+  <author>Peter Mitrano</author>
 
   <buildtool_depend>cmake</buildtool_depend>
 

@@ -12,6 +12,7 @@
   <buildtool_depend>cmake</buildtool_depend>
 
   <build_depend>cmake</build_depend>
+  <build_depend>zlib</build_depend>
 
   <export>
     <build_type>cmake</build_type>

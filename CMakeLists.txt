@@ -7,8 +7,6 @@ project(CNPY)
 
 set(CMAKE_CXX_STANDARD 11)
 
-option(ENABLE_STATIC "Build static (.a) library" ON)
-
 find_package(ZLIB REQUIRED)
 
 

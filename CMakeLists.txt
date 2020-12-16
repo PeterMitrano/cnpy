@@ -6,6 +6,7 @@ endif (COMMAND cmake_policy)
 project(CNPY)
 
 set(CMAKE_CXX_STANDARD 11)
+set(CMAKE_WINDOWS_EXPORT_ALL_SYMBOLS ON)
 
 find_package(ZLIB REQUIRED)
 
